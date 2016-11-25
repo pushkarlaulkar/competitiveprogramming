@@ -1,0 +1,8 @@
+If we xor a number even number of times then result is 0.
+If odd number of times then result is the number itself.
+
+If we are calculating xor of contiguous segments of an array then:-
+	1. If we the array size is even, then the total xor is zero because every element occurs even number of times which 		results in total zero.
+	2. If array size is odd, then just calculate xor of elements which are odd positions since xor of elements at even 		positions is zero because those elements occur even number of times which results in total zero xor. At odd positions the 		xor will be the number itself, since the number of times it occurs is odd therefore it will be the number itself.
+
+If we are calculating xor of subsets of an array, then the total xor is always zero except if the array contains only one element, because if the array has two or more elements then each number occurs even number of times which will result in total zero xor.

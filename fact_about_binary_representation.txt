@@ -1,0 +1,1 @@
+If the binary representation has '1' as its least significant bit then it is an odd number, else even('0' as its least significant bit).

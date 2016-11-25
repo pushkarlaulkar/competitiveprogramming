@@ -1,0 +1,5 @@
+This checks if str2 is in str1, if yes then returns the index otherwise -1;
+str1.find(str2);
+If we have to check if str2 is in str1 in a certain range then we specify beginning and end.
+str1.find(str2, beg = 0, end = len(str1));
+This can be modified as per needs.

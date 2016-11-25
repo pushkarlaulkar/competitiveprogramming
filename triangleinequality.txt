@@ -1,0 +1,5 @@
+If x, y, and z are the lengths of the sides of the triangle, with no side being greater than z, then the triangle inequality states that the sum of the lengths of any two sides must be greater than or equal to the length of the remaining side.
+z <= x + y && x <= y + z && y <= x + z;
+If any one of the conditions is false then the triangle cannot be formed.
+
+I had submitted a code but in that code it was telling wrong answer if I put the equal sign. So, just look if the equal sign gets accepted or not.

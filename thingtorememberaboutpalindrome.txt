@@ -1,0 +1,1 @@
+If we are given a string and we have to find if any palindromic anagram of that is possible or not, then we just have to check if the string length is even then all character count should be even, if string length odd then only one character count should be odd others even.
