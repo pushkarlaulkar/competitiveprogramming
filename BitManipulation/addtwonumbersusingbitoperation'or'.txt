@@ -1,0 +1,1 @@
+we can write a = a + b as a += b, and using or operation we can write it as a = a | b which is also equal to a |= b.
