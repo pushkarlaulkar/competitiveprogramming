@@ -1,3 +1,4 @@
+#Ternary search divides the array into three parts. Array must be sorted.
 int ternarysearch(int l,int r, int x){
 	if(r >= l){
 		int mid1 = l + (r - l) / 3, mid2 = r - (r - l) / 3;
