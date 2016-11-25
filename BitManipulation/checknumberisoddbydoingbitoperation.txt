@@ -1,0 +1,1 @@
+If we have to check whether a number is odd then just '&' the number with 1. If we don't get zero then it is odd else even.
